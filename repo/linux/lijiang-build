@@ -1,0 +1,3 @@
+url: https://github.com/lian-bo/linux.git
+build_success_mail_cc:
+- Lianbo Jiang <lijiang@redhat.com>
